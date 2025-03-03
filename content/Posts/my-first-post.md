@@ -1,7 +1,8 @@
 +++
 date = '2025-02-28T03:55:02+09:00'
-draft = true
 title = 'My First Post'
+menu.main.parent = "Posts"
+menu.main.weight = 3
 +++
 ## Introduction
 
